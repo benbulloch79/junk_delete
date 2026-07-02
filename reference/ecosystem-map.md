@@ -1,10 +1,12 @@
 ---
 type: Reference Index
 title: Ecosystem Map
-description: Sibling repositories and where content belongs across Ben's personal Git folders.
+description: "Sibling repositories and where content belongs across Ben's personal Git folders."
 tier: reference
-timestamp: 2026-06-29T00:00:00Z
-path: reference/ecosystem-map.md
+owner: Ben
+timestamp: "2026-06-29T00:00:00Z"
+path: junk_delete/reference/ecosystem-map.md
+url: "https://github.com/benbulloch79/junk_delete/blob/main/reference/ecosystem-map.md"
 ---
 
 # Ecosystem Map

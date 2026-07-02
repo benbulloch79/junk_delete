@@ -3,8 +3,10 @@ type: Index
 title: junk_delete
 description: Ephemeral staging repo — triage before promoting to personal or Random, or delete.
 tier: reference
-timestamp: 2026-06-29T00:00:00Z
-path: README.md
+owner: Ben
+timestamp: "2026-06-29T00:00:00Z"
+path: junk_delete/README.md
+url: "https://github.com/benbulloch79/junk_delete/blob/main/README.md"
 ---
 
 # junk_delete

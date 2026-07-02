@@ -3,8 +3,10 @@ type: Agent Bootstrap
 title: junk_delete — Agent Bootstrap
 description: Triage ephemeral content here — promote to personal or Random, or delete.
 tier: reference
-timestamp: 2026-06-29T00:00:00Z
-path: AGENTS.md
+owner: Ben
+timestamp: "2026-06-29T00:00:00Z"
+path: junk_delete/AGENTS.md
+url: "https://github.com/benbulloch79/junk_delete/blob/main/AGENTS.md"
 ---
 
 # junk_delete — Agent Bootstrap

@@ -1,5 +1,7 @@
 ---
-okf_version: "0.1"
+path: junk_delete/index.md
+url: "https://github.com/benbulloch79/junk_delete/blob/main/index.md"
+okf_version: 0.1
 ---
 
 # junk_delete Staging Bundle

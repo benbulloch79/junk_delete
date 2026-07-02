@@ -3,8 +3,10 @@ type: Workflow
 title: Promotion Workflow
 description: Decision tree for promoting staged content to permanent repos or deleting it.
 tier: reference
-timestamp: 2026-06-29T00:00:00Z
-path: reference/promotion-workflow.md
+owner: Ben
+timestamp: "2026-06-29T00:00:00Z"
+path: junk_delete/reference/promotion-workflow.md
+url: "https://github.com/benbulloch79/junk_delete/blob/main/reference/promotion-workflow.md"
 ---
 
 # Promotion Workflow

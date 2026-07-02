@@ -3,8 +3,10 @@ type: Operational Log
 title: Promotion Log
 description: Append-only record of content promoted out of junk_delete to permanent repos.
 tier: ops
-timestamp: 2026-06-29T00:00:00Z
-path: tracking/promotion-log.md
+owner: Ben
+timestamp: "2026-06-29T00:00:00Z"
+path: junk_delete/tracking/promotion-log.md
+url: "https://github.com/benbulloch79/junk_delete/blob/main/tracking/promotion-log.md"
 ---
 
 # Promotion Log
