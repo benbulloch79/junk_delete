@@ -45,3 +45,6 @@ junk_delete/
 | RetinaTek business facts | [`RT-BIZ`](C:\Git\RT-BIZ) |
 
 See [reference/ecosystem-map.md](reference/ecosystem-map.md).
+## Writing rule
+
+Do not use em dash punctuation in any output. Use commas, parentheses, colons, or hyphens instead.
